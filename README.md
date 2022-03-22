@@ -1,4 +1,4 @@
-# Ai Pose Estimation with Mediapip & openCV Python
+# Tracking body joints movement during exercise using Open CV and Media-Pipe
 Here we are using MediaPipe and Python to detect different posts from a webcam feed. 
 Then render the results to the screen using OpenCV. 
 As part of it we are extracting joint coordinates and calculate joint angles! 
